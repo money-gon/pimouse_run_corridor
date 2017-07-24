@@ -1,2 +1,2 @@
 # pimouse_run_corridor
-book sampl
+book sample
